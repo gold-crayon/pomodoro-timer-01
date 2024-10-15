@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #1e1e1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.pomodoro-timer {
+    text-align: center;
+    background-color: #333;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#timer-label {
+    color: #fff;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#timer {
+    color: #fff;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#start-pause-btn {
+    background-color: #28a745;
+    color: white;
+}
+
+#reset-btn {
+    background-color: #dc3545;
+    color: white;
+}
