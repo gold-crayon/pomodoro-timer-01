@@ -7,7 +7,7 @@ A simple Pomodoro timer that you can use as a browser source for your Twitch str
 
 ## Live Demo
 
-You can view the live timer hosted on GitHub Pages: [Live Pomodoro Timer](https://your-username.github.io/pomodoro-timer/)
+You can view the live timer hosted on GitHub Pages: [Live Pomodoro Timer](https://gold-crayon.github.io/pomodoro-timer-01/)
 
 ## Features
 
